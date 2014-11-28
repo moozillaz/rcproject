@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\rcproject\rcproject\bin\rcproject.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\rcproject\rcproject\bin\rcproject.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\rcproject\rcproject\bin\rcproject.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\rcproject\rcproject\obj\Release\rcproject.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\rcproject\rcproject\obj\Release\rcproject.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\rcproject\rcproject\obj\Release\rcproject.pdb

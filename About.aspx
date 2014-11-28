@@ -8,6 +8,9 @@
         About
     </h2>
     <p>
-        Put content here.
+        ชื่อจริง :<br />
+        นามสกุล :<br />
     </p>
+    <p>
+        &nbsp;</p>
 </asp:Content>
